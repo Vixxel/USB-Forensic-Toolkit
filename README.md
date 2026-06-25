@@ -73,5 +73,5 @@ README.md
 
 ## Author
 
-Vladimir Acosta
+Vixxel / Vexa
 Cybersecurity & Digital Forensics
