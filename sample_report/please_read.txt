@@ -1,0 +1,2 @@
+This directory is mostly used for you to understand how the different extensions work, none of these files inside this folder
+will necessarily have anything for you.
