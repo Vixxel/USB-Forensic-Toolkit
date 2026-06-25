@@ -26,7 +26,7 @@ A Python-based digital forensics toolkit for Windows that performs USB artifact 
 ```bash
 git clone https://github.com/Vixxel/USB-Forensic-Toolkit
 
-cd USB-Investigation-Toolkit-Pro
+cd USB-Forensic-Toolkit
 
 pip install -r requirements.txt
 
